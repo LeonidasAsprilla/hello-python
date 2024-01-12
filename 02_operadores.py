@@ -142,3 +142,4 @@ print(not False)     # True
 print(not not True)  # True
 print(not not False) # False
 
+# https://youtu.be/Kp4Mvapo5kc?si=qub3xv1dT3_p-lP4&t=7916
