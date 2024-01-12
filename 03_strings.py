@@ -326,3 +326,6 @@ print(challenge.startswith('thirty')) # True
 challenge = '30 days of python'
 print(challenge.startswith('thirty')) # False
 
+# 3:01:13
+# https://youtu.be/Kp4Mvapo5kc?si=6XlBZ7Jo8_AlGADG&t=10873
+# Lista: https://youtube.com/playlist?list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_&si=8XXxGxvpd0SP5x-9
