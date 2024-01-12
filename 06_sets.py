@@ -190,4 +190,4 @@ even_numbers.isdisjoint(odd_numbers) # True, because no common item
 
 python = {'p', 'y', 't', 'h', 'o','n'}
 dragon = {'d', 'r', 'a', 'g', 'o','n'}
-python.disjoint(dragon)  # False, there are common items {'o', 'n'}
+python.isdisjoint(dragon)  # False, there are common items {'o', 'n'}
